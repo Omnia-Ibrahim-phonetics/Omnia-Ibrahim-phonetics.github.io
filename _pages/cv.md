@@ -42,6 +42,15 @@ Work experience
   * Research assistant at Saarland University, SFB1102 Project: Information Density and the Predictability of Phonetic Structure
 * 10/2018 -06/2022
   * Research assistant at University of Zürich, University Research Priority Program (URPP) Language and Space, Research Group “Accommodation and Social Categorization”
+* 2022-2024
+  * President of ISCA students advisory committee (including special needs students)
+* 2022
+  * PhD representative at SFB 1102, Saarland University
+* 2013 - 2018
+  * Academic consultant at Alexandria University admission office
+* 2009-2011
+  * BA. representative at phonetics and linguistics department, Alexandria University
+ 
 
 Teaching
 ======
