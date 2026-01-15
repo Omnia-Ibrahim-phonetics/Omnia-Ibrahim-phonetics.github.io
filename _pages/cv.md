@@ -11,9 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+10/2018 - 12/2022
+PhD in Computational linguistics and phonetics, University of Zürich
+Thesis title: Speaker adaptations as a function of message, channel and listener variability
+Supervision committee: Prof. Dr. Volker Dellwo, Prof. Dr. Bistra Andreeva, Prof. Dr. Bernd Möbius
+06/2020 - 12/2022
+PhD student in the Integrated Research Training Group (IGK), SFB 1102, Saarland University
+09/2012 -02/2017
+Master of arts in Phonetics and Linguistics, Alexandria University
+Thesis Title: Building audio- visual Arabic phonetically annotated corpus for speech processing purposes
+10/2011 - 06/2012
+9 months scholarship diploma (Intake 32), Information Technology Institution. Major:  software engineering
+09/2007 - 08/2011
+Bachelor of Arts in Phonetics and Linguistics, Alexandria University
+Graduation project: The effect of background noise on the perception of second language phonemes:  Arab students learns English as L2
+
 
 Work experience
 ======
