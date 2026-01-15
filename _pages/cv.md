@@ -69,22 +69,21 @@ Teaching
   * HTML, CSS and JavaScript
   * Lab assistant at Information Technology Institution (Intake 33), Alexandria, Egypt
 
-
-  
-
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+https://www.researchgate.net/profile/Omnia-Ibrahim-7
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+* 2023
+  * Phonetic colloquium, University Trier 
+  * Title: The influence of social factors on phonetic accommodation in Human-Human and Human-Robot interactions
+* 2023
+  * Speech science forum, UCL
+  * Title: The influence of predictability on the acoustic realization of German syllables
+* 2022 -2023
+  * Phonetic colloquium, Saarland University
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Executive manager of measurement and assessment unit, Faculty of Arts.
