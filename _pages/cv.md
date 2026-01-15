@@ -87,4 +87,4 @@ Talks
 Service and leadership
 ======
 * Executive manager of measurement and assessment unit, Faculty of Arts.
-  <img src="https://omnia-ibrahim-phonetics.github.io//images/Omnia.jpeg" class="author__avatar" alt="Dr. Omnia Ibrahim">
+  <img src="https://omnia-ibrahim-phonetics.github.io//images/MAU.png" class="author__avatar" alt="Dr. Omnia Ibrahim">
