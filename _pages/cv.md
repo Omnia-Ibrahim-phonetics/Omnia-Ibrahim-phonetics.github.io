@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-  <img src="https://omnia-ibrahim-phonetics.github.io//images/MAU.png" class="author__avatar" alt="Dr. Omnia Ibrahim" style="width:50%; height:50%;">
+  <img src="https://omnia-ibrahim-phonetics.github.io//images/MAU.png" class="author__avatar" alt="Dr. Omnia Ibrahim" style="width:60%; height:60%;">
 
 Education
 ======
