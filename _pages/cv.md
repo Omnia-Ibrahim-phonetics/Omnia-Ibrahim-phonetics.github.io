@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+  <img src="https://omnia-ibrahim-phonetics.github.io//images/MAU.png" class="author__avatar" alt="Dr. Omnia Ibrahim">
 Education
 ======
 * 10/2018 - 12/2022
@@ -87,4 +88,3 @@ Talks
 Service and leadership
 ======
 * Executive manager of measurement and assessment unit, Faculty of Arts.
-  <img src="https://omnia-ibrahim-phonetics.github.io//images/MAU.png" class="author__avatar" alt="Dr. Omnia Ibrahim">
