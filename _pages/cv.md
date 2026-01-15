@@ -28,29 +28,40 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 08/2025 - present
+  * Executive manager of measurement and assessment unit, Faculty of Arts. 
+* 01/2025 - present
+  * Lecturer at Alexandria University, Faculty of Arts, Phonetics and linguistics department 
+* 12/2022 - 2024
+  * Postdoctoral researcher at Saarland University, SFB1102 Project: Information Density and the Predictability of Phonetic Structure 
+* 05/2023 - 2026
+  * Arabic linguistic consultant at Fribourg University 
+  * Project: Schriftspracherwerbsprozess erwachsener Migrantinnen und Migranten mit unterschiedlichen Literatlitätsgraden
+  * PI: Dr. Marie-anne Morand
+* 06/2020 - 12/2022
+  * Research assistant at Saarland University, SFB1102 Project: Information Density and the Predictability of Phonetic Structure
+* 10/2018 -06/2022
+  * Research assistant at University of Zürich, University Research Priority Program (URPP) Language and Space, Research Group “Accommodation and Social Categorization”
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Teaching
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 10/2023-04/2024
+  * Speech Science 
+  * MA level course with Prof. Dr. Bernd Möbius
+  * Saarland University
+* 06/2012 - 09/2018
+  * Physiological phonetics (I, II)
+  * Acoustic phonetics (I, II)
+  * Auditory phonetics
+  * Experimental phonetics (I, II)
+  * BA level courses with Prof. Dr. Mervat Fashal
+  * Alexandria University
+* 09/2012 - 01/2013
+  * HTML, CSS and JavaScript
+  * Lab assistant at Information Technology Institution (Intake 33), Alexandria, Egypt
+
+
+  
 
 Publications
 ======
@@ -64,12 +75,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
